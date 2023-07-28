@@ -3,6 +3,7 @@ import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 import Form from './components/Form';
+import ListNews from './components/ListNews';
 
 export default function App() {
   return (
@@ -35,6 +36,8 @@ export default function App() {
             <Form />
           </Grid>
         </Grid>
+
+        <ListNews />
       </Container>
     </NewsProvider>
   )
