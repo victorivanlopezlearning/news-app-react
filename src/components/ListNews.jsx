@@ -11,7 +11,7 @@ export default function ListNews() {
     <>
       <Typography
         textAlign={'center'}
-        marginY={5}
+        marginY={3}
         variant='string'
         component={'h2'}
       >
@@ -21,6 +21,8 @@ export default function ListNews() {
       <Grid
         container
         spacing={3}
+        alignItems={'stretch'}
+        marginY={3}
       >
         {news?.map((news) => (
           <NewsItem

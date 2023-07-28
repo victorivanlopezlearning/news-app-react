@@ -16,8 +16,9 @@ export default function NewsItem({ news }) {
       md={6}
       lg={4}
       xs={12}
+      sx={{display: 'flex'}}
     >
-      <Card>
+      <Card sx={{display: 'flex', justifyContent: 'space-between', flexDirection: 'column'}}>
         <CardMedia
           component="img"
           sx={{ height: 250 }}
