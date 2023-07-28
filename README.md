@@ -9,13 +9,13 @@
 - API [newsapi.org](https://newsapi.org/).
 
 ## Preview
-| **Filters** |
-| :-------------: |
-| ![Filters](https://i.imgur.com/84l7V6c.gif) |
-
 | **Pagination** |
 | :-------------: |
 | ![Pagination](https://i.imgur.com/LBtDEgq.gif) |
+
+| **Filters** |
+| :-------------: |
+| ![Filters](https://i.imgur.com/84l7V6c.gif) |
 
 ## Installation
 
