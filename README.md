@@ -2,13 +2,20 @@
 
 ## Description
 - Development with React.
-- Context API for state management.
+- State management whit React Context API.
+- Custom Hooks
+- Filters by category. 
+- Pagination.
 - API [newsapi.org](https://newsapi.org/).
 
 ## Preview
 | **Home** |
 | :-------------: |
 | ![Page home](./design/home.png) |
+
+| **Filters** |
+| :-------------: |
+| ![](https://i.imgur.com/FpMW9Re.mp4) |
 
 ## Installation
 
