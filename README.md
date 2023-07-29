@@ -15,7 +15,7 @@
 
 | **Pagination** |
 | :-------------: |
-| ![Pagination](https://i.imgur.com/LGlE9Yt.gif) |
+| ![Filters](https://i.imgur.com/wYDGbxD.gif) |
 
 ## Installation
 
